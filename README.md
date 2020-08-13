@@ -205,7 +205,7 @@ One thing of note is that we do not specify the objectives for each filter. That
 
 ### CNN Search Results
 
-<p align="center"><img src="/imgs/cnn_flow.JPG", width="240"></p>
+<p align="center"><img src="/imgs/cnn_flow.JPG", width="720"></p>
 
 ## Visualizing your CNN
 An important skill to have is to be able to interpret models. Here we will cover 4 of such methods. Do note that I have used a deeper model (which requires longer training time) in the codes below as they generally give better visualization. You can load the model I used from ```./models/stashed/``` but it would be completely fine to use the model trained from the previous section.
