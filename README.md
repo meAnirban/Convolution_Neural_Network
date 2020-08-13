@@ -23,11 +23,11 @@ Image recognition used to be done using much simpler methods such as linear regr
 ### Images
 How computer sees a rgb image.
 
-<p align="center"><img src="/imgs/rgb.jpg", width="100"></p>
+<p align="center"><img src="/imgs/rgb.JPG", width="100"></p>
 
 How computer sees a gray image.
 
-<p align="center"><img src="/imgs/gray.jpg", width="100"></p>
+<p align="center"><img src="/imgs/gray.JPG", width="100"></p>
 
 ### CNNs explained
 But first, let us understand what a convolution is without relating it to any of the brain stuff.
