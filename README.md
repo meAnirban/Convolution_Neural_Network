@@ -7,7 +7,7 @@ object classification, detection, and segmentation.
 
 https://poloclub.github.io/cnn-explainer/
 
-
+https://towardsdatascience.com/understanding-convolutions-using-excel-886ca0a964b7
 
 ## Introduction
 Image recognition is the task of taking an image and labelling it. For us humans, this is one of the first skills we learn from the moment we are born and is one that comes naturally and effortlessly. By the time we reach adulthood we are able to immediately recognize patterns and put labels onto objects we see. These skills to quickly identify images, generalized from prior knowledge, are ones that we do not share with our machines.
